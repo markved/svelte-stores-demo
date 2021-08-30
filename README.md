@@ -10,7 +10,7 @@ Example svelte app to show how stores works!
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-stores-demo
 npm install
 ```
 
